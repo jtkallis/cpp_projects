@@ -1,0 +1,9 @@
+28.15
+invalid
+28.1
+19683
+36
+invalid
+invalid
+invalid
+140

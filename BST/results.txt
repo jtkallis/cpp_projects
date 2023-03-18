@@ -1,0 +1,23 @@
+L is 9
+Height of randomized BST is 4
+
+Level order print of normal BST: 
+
+level 0: 1 
+level 1: 2 
+level 2: 3 
+level 3: 4 
+level 4: 5 
+level 5: 6 
+level 6: 7 
+level 7: 8 9 10 
+
+Level order print of randomized BST: 
+
+level 0: 2 
+level 1: 1 5 
+level 2: 4 8 
+level 3: 3 7 10 
+level 4: 6 9 
+level 5: 
+
